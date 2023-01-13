@@ -79,7 +79,7 @@ You may also see any lint errors in the console.
 
 ## Deployment
 
-<!-- [Vercel deploy link](https://zwallet-next.vercel.app/) -->
+[Vercel deploy link](https://fazzpay-seven.vercel.app/) 
 
 ## Screenshots
 
